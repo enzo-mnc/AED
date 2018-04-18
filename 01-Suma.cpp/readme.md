@@ -8,4 +8,4 @@ Hipótesis de la resolución: Conocimiento nuevo cin y diferenciación de tipos 
 Modelo IPO: ZxZ ==> Procesos ==> Z
 Léxico: Dados a,b ϵ ZxZ Mostrar (a+b) ϵ Z
 Representación en pseudocódigo: leer a; leer b; mostrar a+b;
-Representación gráfica:
+Representación gráfica: AED/01-Suma.cpp/Nassi-Schneiderman.png
